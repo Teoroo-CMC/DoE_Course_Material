@@ -26,8 +26,9 @@ git push: When you're ready to share your work with others or back it up on a re
 Remember, these are just basic descriptions of the commands, and there is much more to learn about Git and its capabilities. But understanding these fundamental commands will give you a solid foundation to start using Git effectively in your projects.
 
 ## Access the material
+### Fork the parent repo and then make a local clone
+Fork the parent repo using Git to get your own copy of the repo, and then make a local clone using
 
-### Fork the parent repo using Git to get your own copy of the repo, and then make a local clone using:
 ```
 git clone https://github.com/YOUR_USERNAME/DoE_Course_Material.git
 ```
