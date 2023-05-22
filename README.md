@@ -3,6 +3,13 @@
 
 Notebooks for workshops of DoE course, hosted by the Computational Materials Chemistry group at Uppsala University. 
 
+## Only for Windows users
+Open a Powershell terminal and run the following command:
+```
+wsl --install
+```
+after restarting your computer, this should allow you to use very useful navigation commands, such as cd, ls, mv, and many others that might be used throughout the remainder of this course.
+
 ## Git basics
 Git is a version control system that helps you keep track of changes made to files in a project. Think of it as a tool that allows you to save different versions of your work, so you can easily go back and forth between them.
 
@@ -19,8 +26,8 @@ git push: When you're ready to share your work with others or back it up on a re
 Remember, these are just basic descriptions of the commands, and there is much more to learn about Git and its capabilities. But understanding these fundamental commands will give you a solid foundation to start using Git effectively in your projects.
 
 ## Access the material
-### Fork the repo using Git to get your own copy
+### Fork the parent repo using Git to get your own copy of the repo, and then make a local clone using:
 ```
-
+git clone 
 ```
 
