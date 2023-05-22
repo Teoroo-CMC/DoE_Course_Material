@@ -38,3 +38,6 @@ git clone https://github.com/YOUR_USERNAME/DoE_Course_Material.git
 ```
 
 ![](Figures/Clone.png)
+
+
+N.B. you have now made a local copy (on your own machine) of a remote repository (the one that has just been forked), which is itself a copy of the parent repository in which we update the course content. We might have you use a few more difficult commands to update your own local copy with the changes that we make to the course content on the fly, so thanks in advance for your patience regarding this.
