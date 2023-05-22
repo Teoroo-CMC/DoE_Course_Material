@@ -29,7 +29,10 @@ Remember, these are just basic descriptions of the commands, and there is much m
 ### Fork the parent repo and then make a local clone
 Fork the parent repo using Git to get your own copy of the repo, and then make a local clone using
 
+![](Figures/Fork.png)
+
 ```
 git clone https://github.com/YOUR_USERNAME/DoE_Course_Material.git
 ```
 
+![](Figures/Clone.png)
