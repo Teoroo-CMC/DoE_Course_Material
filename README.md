@@ -27,10 +27,12 @@ Remember, these are just basic descriptions of the commands, and there is much m
 
 ## Access the material
 ### Fork the parent repo and then make a local clone
-Fork the parent repo using Git to get your own copy of the repo, and then make a local clone using
+Fork the parent repo on Github to get your own copy of the repo.
 
 ![](Figures/Fork.png)
 
+
+Then get your own (forked) copy of the repo on your own machine using git clone:
 ```
 git clone https://github.com/YOUR_USERNAME/DoE_Course_Material.git
 ```
