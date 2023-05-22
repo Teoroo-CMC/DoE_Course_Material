@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg78"
+   width="1896"
+   height="501.33334"
+   viewBox="0 0 1896 501.33334"
+   sodipodi:docname="Fork.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata84">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs82" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     id="namedview80"
+     showgrid="false"
+     inkscape:zoom="0.39451477"
+     inkscape:cx="902.37433"
+     inkscape:cy="250.66667"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g86" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g86">
+    <image
+       sodipodi:absref="/Users/tjams20/Documents/repos/DoE_Course_Material/Figures/Fork.png"
+       xlink:href="Fork.png"
+       id="image88"
+       preserveAspectRatio="none"
+       height="501.33334"
+       width="1896" />
+    <rect
+       style="fill:none;stroke-width:10;stroke-linecap:round;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dashoffset:39.99999907"
+       id="rect90"
+       width="207.85027"
+       height="48.160427"
+       x="1462.5562"
+       y="96.320854" />
+  </g>
+</svg>
