@@ -8,9 +8,10 @@ The content in this chapter is considered as the knowledge you should have gathe
 - [openIntro Statistics Textbook](https://www.openintro.org/book/stat/)
    
 
-```{Note}
+---
+**NOTE**
 This is a short repetition about statistics arising from understanding variation and its relation to some fundamental statistical tools.  
-```
+---
 
 ## Content: 
 
