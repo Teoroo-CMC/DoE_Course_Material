@@ -15,8 +15,8 @@ This is a short repetition about statistics arising from understanding variation
 
 ## Content: 
 
-1. Statstical Variation - This is a repetition of statistics with focus on variation and its relation to statistical tools 
-2. Normalföredlningsplottning - How do you do when you make statndard deviation plots from factorial trials
-3. Transformations - Transform your data to make it fit better 
-4. Regression analysis - statistical analysis... 
-5. Explanations and beteckningar 
+1. [Probability and Probability Distributions](Jupyter-notebooks/probability.ipynb)
+2. [From Probability to Statistics](Jupyter-notebooks/prob-stats.ipynb)
+3. [Statistics - Testing and Regression](Jupyter-notebooks/stats-regression.ipynb)
+4. [Linear and Non-linear Curve Fitting](Jupyter-notebooks/regression-curvefitting.ipynb)
+5. [Statistics: Regression examples](Jupyter-notebooks/regression-mloa.ipynb)
