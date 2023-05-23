@@ -1,4 +1,4 @@
-# DoE - Design of Experiments
+# Week 2: DoE - Design of Experiments
 
 By the end of this part of the course, you should be able to:
 - Understand "orthogonal" and factorial design
