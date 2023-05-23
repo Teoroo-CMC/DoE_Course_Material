@@ -6,12 +6,12 @@ By the end of this part of the course, you should be able to:
 
 Content: 
 
-- Workshop 3 - basic math and statistics in python 
+- Workshop "extra" - Basic math and statistics in python 
 - Lecture 3 - Introduction to DoE and factorial design 
-- Workshop 4 - Full factorial design  
+- Workshop 3 - Full factorial design  
 - Lecture 4 - Fractional factorial design 
-- Workshop 5 - Fractional factorial design 
-- Lecture 5 - More advanced DoE design 
+- Workshop 4 - Fractional factorial design 
+- Lecture 5 - More advanced DoE designs 
 - Lab 1 - DoE in in practice. 
 
 These lectures and work shops are inteded to introduce you to the topic. However, the field is much more ... Modern design of experiments are often full optimization problems (fun!) and can involve computational design, machine learning or Bayesian methods to minimize errors and maximize the chance of finding the best solution in the fewest experiments or measurements.
@@ -106,3 +106,9 @@ In general, we might have a *lot* of factors and interactions.
 Second-order interactions are pretty common. Maybe a catalyst doesn't work as well at higher temperature (e.g., it decomposes). Or light roast coffee requires longer brew times?
 
 In general, third-order interactions and higher are much less common. This is good because we essentially get replication "for free."
+
+-------
+This notebook is adapted from Prof. Geoffrey Hutchison, University of Pittsburgh
+https://github.com/ghutchis/chem1000
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
