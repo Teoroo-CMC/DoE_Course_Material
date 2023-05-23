@@ -1,4 +1,4 @@
-# DoE Course Material
+# Data Handling, DoE and Statistical Analysis for Material Chemists: Course Material
 [![License](https://img.shields.io/github/license/teoroo-cmc/ccs)](https://opensource.org/licenses/LGPL-3.0)
 
 Notebooks for workshops of DoE course, hosted by the Computational Materials Chemistry group at Uppsala University. 

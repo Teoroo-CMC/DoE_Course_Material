@@ -6,12 +6,12 @@ By the end of this part of the course, you should be able to:
 
 Content: 
 
-- [Workshop "extra"](Workshop_extra/README.md) - Basic math and statistics in python 
+- [Workshop "extra"](Workshop_extra/README.md) - Basic probability and statistics in python 
 - Lecture 3 - Introduction to DoE and factorial design 
 - Workshop 3 - Full factorial design  
 - Lecture 4 - Fractional factorial design 
 - Workshop 4 - Fractional factorial design 
-- Lecture 5 - More advanced DoE designs 
+- Lecture 5 - More advanced Experimental designs 
 - Lab 1 - DoE in in practice. 
 
 These lectures and work shops are inteded to introduce you to the topic. However, the field is much more ... Modern design of experiments are often full optimization problems (fun!) and can involve computational design, machine learning or Bayesian methods to minimize errors and maximize the chance of finding the best solution in the fewest experiments or measurements.
