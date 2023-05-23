@@ -37,21 +37,21 @@ We should consider possible *factors* that influence yield, like:
 
 Phew, that's a lot of possible things to change. Let's imagine just changing catalyst loading and temperature:
 
-<img src="./Figures/DoE.png" width="300" />
+<img src="./Jupyter-notebooks/Figures/DoE.png" width="300" />
 
 1. We start at our initial concentration of 0.5 mM and scan temperature (10, 20, 30, 40, 50, 60°C)
 
-<img src="./Figures/Temperature.png" width="300" />
+<img src="./Jupyter-notebooks/Figures/Temperature.png" width="300" />
 
 2. We now scan concentration at our initial temperature of 30°C:
 
-<img src="./Figures/Concentration.png" width="300" />
+<img src="./Jupyter-notebooks/Figures/Concentration.png" width="300" />
 
 Great, it looks like our best conditions are 40°C and 2 mM of catalyst! Much better yield (118.g vs. 78.6g initial)
 
 In this example, the best conditions are at 50°C, 2.5 mM of catalyst, yielding 123.g of product!
 
-<img src="./Figures/Response.png" width="300" />
+<img src="./Jupyter-notebooks/Figures/Response.png" width="300" />
 
 **Why did we miss our best conditions?**
 
@@ -59,7 +59,7 @@ There are often interactions between otherwise independent factors in our experi
 
 Instead of varying one variable at a time, we should use Design of Experiments (DoE).
 
-<img src="./Figures/grid.png" width="300" />
+<img src="./Jupyter-notebooks/Figures/grid.png" width="300" />
 
 Note if we pick the four "corner" points, we'll get a much better idea if there's an interaction between the two variables. One of them is likely to be close to the best point.
 
