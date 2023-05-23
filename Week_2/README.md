@@ -6,7 +6,7 @@ By the end of this part of the course, you should be able to:
 
 Content: 
 
-- Workshop "extra" - Basic math and statistics in python 
+- [Workshop "extra"](Workshop_extra/README.md) - Basic math and statistics in python 
 - Lecture 3 - Introduction to DoE and factorial design 
 - Workshop 3 - Full factorial design  
 - Lecture 4 - Fractional factorial design 
