@@ -18,4 +18,4 @@ The material is divided into week:
 
 
 ## Using this repository 
-The information on how to use this repository ion the most efficient way can be read in [Insall.md.](Install.cm) 
+The information on how to use this repository ion the most efficient way can be read in [Install.md.](Install.cm) 
