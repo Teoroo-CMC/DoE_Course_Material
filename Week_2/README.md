@@ -1,22 +1,28 @@
 # Week 2: DoE - Design of Experiments
 
 By the end of this part of the course, you should be able to:
-- Understand "orthogonal" and factorial design
+- Understand how experimental design can be used for the building of empirical models
 - Understand key issues in statistical design of experiments
 
-Content: 
+Before attending these lectures, it would be good to freshen up your knowledge about statistics. Please have a looka at the [Workshop "extra"](Workshop_extra/README.md), which cover some excercises in basic probability and statistics using python. 
 
-- [Workshop "extra"](Workshop_extra/README.md) - Basic probability and statistics in python 
-- Lecture 3 - Introduction to DoE and factorial design 
-- Workshop 3 - Full factorial design  
-- Lecture 4 - Fractional factorial design 
-- Workshop 4 - Fractional factorial design 
-- Lecture 5 - More advanced Experimental designs 
+## Reading Material
+Also, please have a look at the reading material. The main book is: 
+- Chapter 1, 4, 5, 6 of Empirical model-building and response surfaces by George E. P. Box and Norman R.Draper, Wiley Series in probability and mathematical statistics (ISBN 0-471-81033-9)
+  
+There is also a book in swedish that cover almost everything (excep chapter 6):  
+- Försöksplanering för utveckling och förbättring, Bo Bergman, Martin Arvidsson, IdaGremyr, Studentlitteratur 2017 (ISBN 978-91-44-11658-7) (book in swedish)
+## Content
+- Lecture 3 - Introduction to DoE and factorial design (chapter 1 and 4 ) 
+- Workshop 3 - Full factorial design  (chapter 1)
+- Lecture 4 - Fractional factorial design (Chapter 5)
+- Workshop 4 - Fractional factorial design (Chapter 6)
+- Lecture 5 - Optimization and more advanced experimental designs (Chapter 6 and more) 
 - Lab 1 - DoE in in practice. 
 
 These lectures and work shops are inteded to introduce you to the topic. However, the field is much more ... Modern design of experiments are often full optimization problems (fun!) and can involve computational design, machine learning or Bayesian methods to minimize errors and maximize the chance of finding the best solution in the fewest experiments or measurements.
 
-## Why Bother?
+## What is Experimental design?
 
 We often are introduced to science using the concept of *one variable at a time* experiments (OVAT).
 
