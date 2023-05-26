@@ -2,11 +2,6 @@
 Knowledge about Design of Experiment (DOE) has become critical in this age of rapidly expanding the field of data science and associated statistical modeling and machine learning. Knowledge about efficient DoE techniques is important for any scientist or engineer planning to conduct experimental analysis. A well-planned DOE can give a researcher meaningful data set to act upon with the optimal number of experiments preserving critical resources.
 To do good science with data, one needs to collect it through carefully thought-out experiments to cover all corner cases and reduce any possible bias.
 
-## Reading Material
-- Försöksplanering för utveckling och förbättring, Bo Bergman, Martin Arvidsson, IdaGremyr, Studentlitteratur 2017 (ISBN 978-91-44-11658-7) (book in swedish)
-- Chapter 1, 4, 5, 6 of Empirical model-building and response surfaces by George E. P. Box and Norman R.Draper, Wiley Series in probability and mathematical statistics (ISBN 0-471-81033-9)
-  
-# Content
 ## What is a scientific experiment?
 In its simplest form, a scientific experiment aims at predicting the outcome by introducing a change of the preconditions, which is represented by one or more independent variables, also referred to as “input variables” or “predictor variables.” The change in one or more independent variables is generally hypothesized to result in a change in one or more dependent variables, also referred to as “output variables” or “response variables.” The experimental design may also identify control variables that must be held constant to prevent external factors from affecting the results.
 
