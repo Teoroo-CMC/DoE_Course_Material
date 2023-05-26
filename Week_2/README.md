@@ -1,7 +1,7 @@
 # Week 2: DoE - Design of Experiments
 
 By the end of this part of the course, you should be able to:
-- Understand "orthogonal" and factorial design
+- Understand how experimental design can be used for the building of empirical models
 - Understand key issues in statistical design of experiments
 
 Before attending these lectures, it would be good to freshen up your knowledge about statistics. Please have a looka at the [Workshop "extra"](Workshop_extra/README.md), which cover some excercises in basic probability and statistics using python. 
