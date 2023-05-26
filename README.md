@@ -1,6 +1,6 @@
 
 # Data Handling, DoE and Statistical Analysis for Material Chemists: Course Material
-This git repository include all material for the DoE course, hosted by the Computational Materials Chemistry group at Uppsala University. This repository will be updated during the course. More information regarding how to use this repository can be found [here](Install.md). 
+This git repository include all material for the DoE course, hosted by the Computational Materials Chemistry group at Uppsala University. This repository will be updated during the course. More information regarding how to use this repository can be found [here](INSTALL.md). 
 ## Schedule
 The schedule for the course is now finalized 
 <img src="./Figures/Schedule.PNG" width="800" />
@@ -18,4 +18,4 @@ The material is divided into week:
 
 
 ## Using this repository 
-The information on how to use this repository ion the most efficient way can be read in [Install.md.](Install.md) 
+The information on how to use this repository ion the most efficient way can be read in [Install.md.](INSTALL.md) 
