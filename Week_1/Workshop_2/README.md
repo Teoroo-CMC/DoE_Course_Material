@@ -5,3 +5,7 @@ You're also warmly invited to have a look at the extensive examples available on
 * Matplotlib; <https://matplotlib.org/stable/tutorials/index>
 * Seaborn; <https://seaborn.pydata.org/tutorial.html>
 * Plotly; <https://plotly.com/python/>
+
+Additional content:
+
+* Seaborn Error bars; <https://seaborn.pydata.org/tutorial/error_bars.html>
