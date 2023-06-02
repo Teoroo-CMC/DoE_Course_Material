@@ -1,0 +1,3 @@
+# Math basics for Material Chemists
+
+Mainly adapted from... 
