@@ -110,13 +110,13 @@ In general, third-order interactions and higher are much less common. This is go
 
 
 ## Course Content
-- [Lecures](/Week_2/README.md)
-  - Lecture 3 - Introduction to DoE and factorial design (chapter 1 and 4 ) 
-  - Lecture 4 - Block design and fractional factorial design (chapter 5)
-  - Lecture 5 - Optimization using DoE (Chapter 6) 
+- [Lecures](/Week_2/Lectures/README.md)
+  - Lecture 4 - Introduction to DoE and factorial design (chapter 1 and 4 ) 
+  - Lecture 5 - Block design and fractional factorial design (chapter 5)
+  - Lecture 6 - Optimization using DoE (Chapter 6) 
 - Workshops
-  - [Workshop 3 - Full factorial design and analysis of results (chapter 4)](/Week_2/Workshop_3/README.md)
-  - [Workshop 4 - Block design and fractional factorial design (chapter 5)](/Week_2/Workshop_4/README.md)
+  - [Workshop 4 - Full factorial design and analysis of results (chapter 4)](/Week_2/Workshop_4/README.md)
+  - [Workshop 5 - Block design and fractional factorial design (chapter 5)](/Week_2/Workshop_5/README.md)
 - Laboration
   - [Laboration 1 - DoE in in practice](/Week_2/Lab_1/README.md)  
 
