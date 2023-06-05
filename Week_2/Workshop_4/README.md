@@ -8,7 +8,7 @@ Lets look at the data in in [data_example.xlsx](/Week_2/Workshop_4/data_example.
 
 
  
-
+<div>
  <iframe width="1173" height="660" src="https://www.youtube.com/embed/v3Epk5de8MQ" title="Minitab DOE - Full Factorial Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+</div>
 
