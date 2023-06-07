@@ -12,8 +12,6 @@ Can we do the same in Python? Let's try... Go through the [jupyter notebook](/We
 Let's have a look at a more [complicated case](/Week_2/Workshop_4/Jupyter-notebooks/2-6factor.ipynb). Go through the notebook and se if you understand the steps. Write comments and explanations in the notebook.  
 
 
-## Task 3: More analysis
-Let's do some more analysis of the model from Task 2. 
- 
+
 
 
