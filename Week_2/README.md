@@ -71,10 +71,10 @@ After all, performing experiments of any kind is often expensive and time-consum
 - Screening (WHICH Stage)
   - aiming to determine the subset of important parameters from a given larger set of potentially important parameters
 - Empirical Model Building (HOW stage)
-  - Determine empirically the effects of the know input parameters
-  - Determine approximate function for local interpolation 
+  - Determine empirically the effects of the known input parameters
+  - Build approximate function for local interpolation 
 - Mechanistic Model Building (WHY Stage) 
-  - Determine function for extrapolation 
+  - Build function for extrapolation 
 
 The use of DoE will take us from the screening stage to the level of local optimization or mechanistic understanding for global optimization in the most efficient way. 
 
