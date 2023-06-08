@@ -1,1 +1,3 @@
 #Laboration DoE 
+
+Task 1: Make a factorial design for the following data...
