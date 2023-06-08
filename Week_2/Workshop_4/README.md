@@ -9,7 +9,7 @@ Lets look at the data in in [data_example.xlsx](/Week_2/Workshop_4/data_example.
 Can we do the same in Python? Let's try... Go through the [jupyter notebook](/Week_2/Workshop_4/Jupyter-notebooks/DoE-2factor_full.ipynb) and see if you can follow what has been done. Write comments and explanations in the notebook. 
 
 ## Task 2: Let's create the full 2$^6$ factorial design described in Box and Norman. 
-Let's have a look at a more [complicated case](/Week_2/Workshop_4/Jupyter-notebooks/2-6factor.ipynb). Go through the notebook and se if you understand the steps. Write comments and explanations in the notebook.  
+Let's have a look at a more [complicated case](/Week_2/Workshop_4/Jupyter-notebooks/2-6factor.ipynb). The background to the task is given in the bcourse boo, chapter 4.3. Go through the chapter and the notebook and se if you understand the steps. Write comments and explanations in the notebook.   
 
 
 
