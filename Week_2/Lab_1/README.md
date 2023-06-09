@@ -9,7 +9,8 @@ The parameter ranges are:
 - C: 0.3-0.6 %
 - D: 1000-1300 rpm  
 
-Make a factorial design and make a model with as few contrasts as possible.
+
+Make a factorial design and make a model with as few contrasts as possible form the data in [Ex6-2.csv](/Week_2/Lab_1/Task_1/Ex6-2.csv).
 
 
 ## Task 2: Optimization
