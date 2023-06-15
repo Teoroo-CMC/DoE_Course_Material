@@ -1,3 +1,5 @@
+# t-test and ANOVA
+
 ## t-test
 
 The t-test is a statistical method used to determine if there is a significant difference between the means of two populations, or to test whether the mean of a single distribution is larger, smaller or equal to a claimed value. It is based on the t-distribution, which is similar to the normal distribution but with heavier tails.
