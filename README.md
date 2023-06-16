@@ -3,7 +3,7 @@
 This git repository include all material for the DoE course, hosted by the Computational Materials Chemistry group at Uppsala University. This repository will be updated during the course. More information regarding how to use this repository can be found [here](INSTALL.md). 
 ## Schedule
 The schedule for the course is now finalized 
-<img src="./Figures/Schedule.PNG" width="800" />
+<img src="./Figures/Schedule.png" width="800" />
 
 ## Content
 The material is divided into week: 
