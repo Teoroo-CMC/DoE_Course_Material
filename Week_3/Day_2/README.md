@@ -23,8 +23,9 @@ To assess the overall fit of the multivariate linear regression model, various s
 Linear regression can be related to the normal equations, which provide a closed-form solution for finding the optimal values of the regression coefficients. The normal equations are derived from the principle of minimizing the sum of squared residuals (also known as the Ordinary Least Squares method).
 
 Let's consider the case of simple linear regression with one predictor variable. The relationship between the predictor variable ($x$) and the response variable ($y$) can be represented by the equation:
-
-$ y = \beta_0 + \beta_1x + \epsilon $
+$
+ y = \beta_0 + \beta_1x + \epsilon
+$
 
 where $\beta_0$ is the intercept, $\beta_1$ is the slope coefficient, and $\epsilon$ is the error term.
 
@@ -179,8 +180,9 @@ Please note that the above steps assume the use of simple linear regression with
 ### Ridge regression
 
 Ridge regression is a regularization technique used in linear regression to address multicollinearity and improve the stability of the regression model. It adds a penalty term to the ordinary least squares (OLS) objective function, resulting in the following modified objective function:
-
-$\text{Minimize:} \quad \sum_{i=1}^{n} (y_i - \beta_0 - \sum_{j=1}^{p} \beta_j x_{ij})^2 + \lambda \sum_{j=1}^{p} \beta_j^2$
+$$
+\text{Minimize:} \quad \sum_{i=1}^{n} (y_i - \beta_0 - \sum_{j=1}^{p} \beta_j x_{ij})^2 + \lambda \sum_{j=1}^{p} \beta_j^2
+$$
 
 where:
 - $n$ is the number of observations.
