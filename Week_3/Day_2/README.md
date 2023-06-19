@@ -1,11 +1,11 @@
 # Generate a mesh using numpy...
 The must be better ways, but this seem to work.
 
-
+```
 span = np.linspace(0, 10, 100)
 x1,x2=np.meshgrid(span,span)
 x=np.array( [x1.flatten(),x2.flatten()] )
-
+```
 
 
 
