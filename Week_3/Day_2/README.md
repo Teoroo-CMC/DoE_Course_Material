@@ -264,4 +264,5 @@ where $x$ and $x'$ are input vectors, and $\sigma$ is the kernel bandwidth param
 
 
 # Further reading:
+https://en.wikipedia.org/wiki/Regression_analysis
 https://en.wikipedia.org/wiki/Linear_regression
