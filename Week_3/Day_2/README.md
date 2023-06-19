@@ -262,3 +262,6 @@ k(x, x') = \exp\left(-\frac{\|x - x'\|^2}{2\sigma^2}\right)
 $
 where $x$ and $x'$ are input vectors, and $\sigma$ is the kernel bandwidth parameter.
 
+
+# Further reading:
+https://en.wikipedia.org/wiki/Linear_regression
