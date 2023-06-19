@@ -1,3 +1,15 @@
+# Generate a mesh using numpy...
+The must be better ways, but this seem to work.
+
+
+span = np.linspace(0, 10, 100)
+x1,x2=np.meshgrid(span,span)
+x=np.array( [x1.flatten(),x2.flatten()] )
+
+
+
+
+
 ## Multivariate linear regression
 
 Multivariate Linear Regression is a statistical modeling technique used to analyze the relationship between multiple independent variables (also called predictors or features) and a single dependent variable. It extends the concept of simple linear regression, which deals with only one independent variable.
