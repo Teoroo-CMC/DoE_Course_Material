@@ -7,6 +7,19 @@ x1,x2=np.meshgrid(span,span)
 x=np.array( [x1.flatten(),x2.flatten()] )
 ```
 
+With pandas
+
+```
+import pandas as pd
+span = np.linspace(0, 10, 100)
+x1,x2=np.meshgrid(span,span)
+x1_flat = x1.flatten()
+x2_flat = x2.flatten()
+
+data=pd.DataFrame({"x1":x1_flat,"x2":x2_flat})
+```
+
+
 
 
 
