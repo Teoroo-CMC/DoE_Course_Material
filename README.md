@@ -16,7 +16,7 @@ Having passed week 1, you now have a basic understading of python and how to use
 
 [Week 3 - Statistical analysis of large data sets](Week_3/README.md)
 
-[(extra  Week 4 - Intro to machine learning for material scintists)]Week_4/README.md)
+[(extra  Week 4 - Intro to machine learning for material scientists)]Week_4/README.md)
 
 
 ## Using this repository 
